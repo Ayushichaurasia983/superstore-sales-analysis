@@ -21,4 +21,4 @@ This project analyzes retail sales data to identify trends, profitable categorie
 Sample Superstore dataset
 
 ## Author
-Ayushi 
+Palak
