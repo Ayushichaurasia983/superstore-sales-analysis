@@ -15,7 +15,7 @@ This project analyzes retail sales data to identify trends, profitable categorie
 - Some furniture products show negative profit
 
 ## Dashboard
-![Dashboard](images/dashboard_preview.png)
+![Dashboard]("C:\Users\Harsh\Pictures\Screenshots\super sales analysis dashboard.png")
 
 ## Dataset
 Sample Superstore dataset
